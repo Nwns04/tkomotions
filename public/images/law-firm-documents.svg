@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+  <title id="title">Documents prepared for review</title>
+  <desc id="desc">A close view of indexed documents, a pen, and a route line for a legal matter.</desc>
+  <rect width="900" height="650" fill="#d2d0c6"/><rect x="120" y="70" width="540" height="480" fill="#fbfaf6" stroke="#505b53" stroke-width="6" transform="rotate(-7 390 310)"/><rect x="280" y="100" width="500" height="450" fill="#eeece4" stroke="#a77535" stroke-width="5" transform="rotate(9 530 325)"/>
+  <g stroke="#687169" stroke-width="8" opacity=".75"><path d="M235 220h270M215 275h320M198 330h260"/><path d="M410 200h210M400 260h240M390 320h160"/></g>
+  <path d="M120 490c150-95 220-55 340-125s215-100 380-20" fill="none" stroke="#a77535" stroke-width="8"/><circle cx="120" cy="490" r="12" fill="#a77535"/><circle cx="840" cy="345" r="12" fill="#a77535"/>
+</svg>

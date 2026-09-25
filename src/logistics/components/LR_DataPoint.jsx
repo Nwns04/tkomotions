@@ -1,0 +1,1 @@
+export default function LR_DataPoint({ label, value }) { return <div><p className="text-2xl font-black">{value}</p><p className="text-xs uppercase tracking-wider text-black/45">{label}</p></div>; }

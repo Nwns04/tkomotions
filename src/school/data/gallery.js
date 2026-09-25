@@ -1,0 +1,92 @@
+export const galleryImages = [
+  {
+    id: 1,
+    image: 'https://images.unsplash.com/photo-1509062522246-3755977927d7?w=1200&q=80',
+    caption: 'Students in the playground',
+    category: 'community',
+  },
+  {
+    id: 2,
+    image: 'https://images.unsplash.com/photo-1562774053-701939374585?w=1200&q=80',
+    caption: 'Main campus building',
+    category: 'campus',
+  },
+  {
+    id: 3,
+    image: 'https://images.unsplash.com/photo-1503676260728-1c00da094a0b?w=1200&q=80',
+    caption: 'Primary classroom in session',
+    category: 'classroom',
+  },
+  {
+    id: 4,
+    image: 'https://images.unsplash.com/photo-1523240795612-9a054b0db644?w=1200&q=80',
+    caption: 'Secondary students collaborating',
+    category: 'classroom',
+  },
+  {
+    id: 5,
+    image: 'https://images.unsplash.com/photo-1532094349884-543bc11b234d?w=1200&q=80',
+    caption: 'Science laboratory',
+    category: 'campus',
+  },
+  {
+    id: 6,
+    image: 'https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=1200&q=80',
+    caption: 'Sports day athletics',
+    category: 'sports',
+  },
+  {
+    id: 7,
+    image: 'https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=1200&q=80',
+    caption: 'Art class in progress',
+    category: 'arts',
+  },
+  {
+    id: 8,
+    image: 'https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1200&q=80',
+    caption: 'The school library',
+    category: 'campus',
+  },
+  {
+    id: 9,
+    image: 'https://images.unsplash.com/photo-1488521787991-ed7bbaae773c?w=1200&q=80',
+    caption: 'Community service project',
+    category: 'community',
+  },
+  {
+    id: 10,
+    image: 'https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=1200&q=80',
+    caption: 'School assembly',
+    category: 'community',
+  },
+  {
+    id: 11,
+    image: 'https://images.unsplash.com/photo-1541961017774-22349e4a1262?w=1200&q=80',
+    caption: 'Nursery outdoor play',
+    category: 'community',
+  },
+  {
+    id: 12,
+    image: 'https://images.unsplash.com/photo-1517486808906-6ca8b3f04846?w=1200&q=80',
+    caption: 'Music lesson',
+    category: 'arts',
+  },
+  {
+    id: 13,
+    image: 'https://images.unsplash.com/photo-1509869175650-a1d97972541a?w=1200&q=80',
+    caption: 'ICT suite',
+    category: 'campus',
+  },
+  {
+    id: 14,
+    image: 'https://images.unsplash.com/photo-1526676037777-05a232554f77?w=1200&q=80',
+    caption: 'Football team',
+    category: 'sports',
+  },
+  {
+    id: 15,
+    image: 'https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=1200&q=80',
+    caption: 'Graduation day',
+    category: 'community',
+  },
+];

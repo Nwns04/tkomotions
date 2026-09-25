@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 650" role="img" aria-labelledby="title desc">
+  <title id="title">A considered working meeting</title>
+  <desc id="desc">An editorial illustration of a meeting table, papers, and people represented as silhouettes.</desc>
+  <rect width="1000" height="650" fill="#e9e6dd"/><path d="M0 460h1000v190H0z" fill="#68756c"/><ellipse cx="500" cy="455" rx="330" ry="78" fill="#3e4b43"/><ellipse cx="500" cy="440" rx="280" ry="58" fill="#d8d4c8"/>
+  <g fill="#4d5b52"><circle cx="205" cy="260" r="55"/><path d="M145 325h120l28 120H117z"/><circle cx="795" cy="260" r="55"/><path d="M735 325h120l28 120H707z"/><circle cx="500" cy="180" r="48"/><path d="M445 235h110l25 130H420z"/></g>
+  <g fill="#fbfaf6" stroke="#a77535" stroke-width="4"><rect x="385" y="410" width="120" height="55" transform="rotate(-8 445 438)"/><rect x="535" y="415" width="120" height="55" transform="rotate(8 595 442)"/></g>
+</svg>

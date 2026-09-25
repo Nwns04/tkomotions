@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">A quiet law office interior</title>
+  <desc id="desc">A restrained architectural illustration of a law office with desks, windows, and indexed documents.</desc>
+  <rect width="1200" height="700" fill="#d9d5c9"/>
+  <rect x="0" y="0" width="1200" height="420" fill="#eeeae0"/>
+  <path d="M0 420h1200v280H0z" fill="#a5a69c"/>
+  <path d="M0 510h1200" stroke="#656e67" stroke-width="4" opacity=".6"/>
+  <g fill="#fbfaf6" stroke="#6a726a" stroke-width="5">
+    <rect x="85" y="80" width="245" height="290"/><rect x="385" y="80" width="245" height="290"/><rect x="685" y="80" width="245" height="290"/>
+  </g>
+  <g stroke="#b8b6ad" stroke-width="5"><path d="M207 80v290M507 80v290M807 80v290"/><path d="M85 225h245M385 225h245M685 225h245"/></g>
+  <g fill="#4f5d54"><path d="M165 452h345l35 44H130z"/><path d="M190 496h18v120h-18zM470 496h18v120h-18z"/><path d="M730 452h290l35 44H695z"/><path d="M755 496h18v120h-18zM995 496h18v120h-18z"/></g>
+  <g fill="#a77535"><rect x="235" y="420" width="92" height="8"/><rect x="790" y="420" width="120" height="8"/></g>
+  <g fill="#f7f5ef" stroke="#8b9088" stroke-width="3"><rect x="260" y="435" width="70" height="38"/><rect x="810" y="435" width="78" height="38"/></g>
+</svg>

@@ -1,0 +1,86 @@
+export const galleryImages = [
+  {
+    id: 1,
+    image: 'https://images.unsplash.com/photo-1542314831-068cd1dbfeeb?w=1600&q=80',
+    caption: 'The Main House at Dusk',
+    category: 'architecture',
+  },
+  {
+    id: 2,
+    image: 'https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=1600&q=80',
+    caption: 'The Pool',
+    category: 'amenities',
+  },
+  {
+    id: 3,
+    image: 'https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=1600&q=80',
+    caption: 'Courtyard Room',
+    category: 'rooms',
+  },
+  {
+    id: 4,
+    image: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1600&q=80',
+    caption: 'Ori Restaurant',
+    category: 'dining',
+  },
+  {
+    id: 5,
+    image: 'https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=1600&q=80',
+    caption: 'The Lobby',
+    category: 'architecture',
+  },
+  {
+    id: 6,
+    image: 'https://images.unsplash.com/photo-1544161515-4ab6ce6db874?w=1600&q=80',
+    caption: 'Spa Treatment Room',
+    category: 'amenities',
+  },
+  {
+    id: 7,
+    image: 'https://images.unsplash.com/photo-1521587760476-6c12a4b040da?w=1600&q=80',
+    caption: 'The Library',
+    category: 'amenities',
+  },
+  {
+    id: 8,
+    image: 'https://images.unsplash.com/photo-1585320806297-9794b3e4eeae?w=1600&q=80',
+    caption: 'The Gardens',
+    category: 'architecture',
+  },
+  {
+    id: 9,
+    image: 'https://images.unsplash.com/photo-1590490360182-c33d57733427?w=1600&q=80',
+    caption: 'Garden Room',
+    category: 'rooms',
+  },
+  {
+    id: 10,
+    image: 'https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?w=1600&q=80',
+    caption: 'Private Dining',
+    category: 'dining',
+  },
+  {
+    id: 11,
+    image: 'https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1600&q=80',
+    caption: 'Meridian Villa',
+    category: 'rooms',
+  },
+  {
+    id: 12,
+    image: 'https://images.unsplash.com/photo-1584132967334-10e028bd69f7?w=1600&q=80',
+    caption: 'Pool House',
+    category: 'amenities',
+  },
+  {
+    id: 13,
+    image: 'https://images.unsplash.com/photo-1445019980597-93fa8acb246c?w=1600&q=80',
+    caption: 'The Palm Bar',
+    category: 'dining',
+  },
+  {
+    id: 14,
+    image: 'https://images.unsplash.com/photo-1566665797739-1674de7a421a?w=1600&q=80',
+    caption: 'Detail',
+    category: 'details',
+  },
+];

@@ -1,0 +1,92 @@
+export const galleryImages = [
+  {
+    id: 1,
+    image: 'https://images.unsplash.com/photo-1544025162-d76694265947?w=1600&q=80',
+    caption: 'Charcoal-grilled beef short rib',
+    category: 'dishes',
+  },
+  {
+    id: 2,
+    image: 'https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?w=1600&q=80',
+    caption: 'The Main Dining Room',
+    category: 'interiors',
+  },
+  {
+    id: 3,
+    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?w=1600&q=80',
+    caption: 'Fire Kitchen in action',
+    category: 'fire-kitchen',
+  },
+  {
+    id: 4,
+    image: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1600&q=80',
+    caption: 'Chef plating a signature dish',
+    category: 'people',
+  },
+  {
+    id: 5,
+    image: 'https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?w=1600&q=80',
+    caption: 'Seasonal vegetable salad',
+    category: 'dishes',
+  },
+  {
+    id: 6,
+    image: 'https://images.unsplash.com/photo-1559339352-11d035aa65de?w=1600&q=80',
+    caption: 'The Ember Bar',
+    category: 'interiors',
+  },
+  {
+    id: 7,
+    image: 'https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1600&q=80',
+    caption: 'Grilled whole fish',
+    category: 'dishes',
+  },
+  {
+    id: 8,
+    image: 'https://images.unsplash.com/photo-1600565193348-f74bd3c7ccdf?w=1600&q=80',
+    caption: 'Chef Amara at the pass',
+    category: 'people',
+  },
+  {
+    id: 9,
+    image: 'https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1600&q=80',
+    caption: 'Private Dining Room',
+    category: 'interiors',
+  },
+  {
+    id: 10,
+    image: 'https://images.unsplash.com/photo-1476224203421-9ac39bcb3327?w=1600&q=80',
+    caption: 'Palm wine mojito',
+    category: 'dishes',
+  },
+  {
+    id: 11,
+    image: 'https://images.unsplash.com/photo-1556910103-1c02745aae4d?w=1600&q=80',
+    caption: 'Open fire grill',
+    category: 'fire-kitchen',
+  },
+  {
+    id: 12,
+    image: 'https://images.unsplash.com/photo-1424847651672-bf20a4b0982b?w=1600&q=80',
+    caption: 'The Chef\'s Table',
+    category: 'interiors',
+  },
+  {
+    id: 13,
+    image: 'https://images.unsplash.com/photo-1467003909585-2f8a72700288?w=1600&q=80',
+    caption: 'Suya lamb cutlets',
+    category: 'dishes',
+  },
+  {
+    id: 14,
+    image: 'https://images.unsplash.com/photo-1556911220-bff31c812dba?w=1600&q=80',
+    caption: 'Kitchen team in service',
+    category: 'people',
+  },
+  {
+    id: 15,
+    image: 'https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1600&q=80',
+    caption: 'Tomahawk steak on the grill',
+    category: 'fire-kitchen',
+  },
+];

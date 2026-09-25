@@ -1,0 +1,1 @@
+export default function LR_QuoteResult({ quote }) { return quote ? <p>Estimated from ₦{quote.amount.toLocaleString()}</p> : null; }

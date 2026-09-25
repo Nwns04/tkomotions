@@ -1,0 +1,3 @@
+import { routes } from '../data/routes';
+
+export default function LR_RouteMap() { return <div className="grid gap-px bg-black/10 sm:grid-cols-2">{routes.map((route) => <div key={route.code} className="bg-[#f7f7f3] p-5"><p className="text-xs font-bold tracking-widest text-orange-600">{route.code}</p><p className="mt-3 text-lg font-black">{route.from} <span className="text-orange-500">→</span> {route.to}</p><p className="mt-2 text-sm text-black/50">Typical transit: {route.time}</p></div>)}</div>; }
