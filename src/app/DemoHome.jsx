@@ -34,6 +34,18 @@ function WebsitePreview({ demo }) {
     );
   }
 
+  if (demo.slug === 'school') {
+    return (
+      <div className="absolute inset-0 overflow-hidden bg-[#E8E7E2]">
+        <img
+          src={image}
+          alt="School homepage preview"
+          className="h-full w-full object-cover object-top transition duration-700 ease-out group-hover:scale-[1.035]"
+        />
+      </div>
+    );
+  }
+
   return (
     <div className="absolute inset-0 overflow-hidden" style={{ background: palette.tint }}>
       {image && (
