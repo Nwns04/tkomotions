@@ -2,7 +2,6 @@ import { Link } from 'react-router-dom';
 import { useEffect, useMemo, useRef } from 'react';
 import { gsap } from 'gsap';
 import { demosList } from './demoRegistry';
-import schoolPreview from '../assets/school-preview.png';
 
 const colorMap = {
   bronze: { accent: '#9A7448', tint: '#EEE7DD' },
@@ -19,7 +18,7 @@ const colorMap = {
 
 function WebsitePreview({ demo }) {
   const palette = colorMap[demo.color] || colorMap.indigo;
-  const image = demo.slug === 'school' ? schoolPreview : demo.previewImage;
+  const image = demo.previewImage;
 
   if (!demo.ready) {
     return (
@@ -30,18 +29,6 @@ function WebsitePreview({ demo }) {
             Source not included in this archive
           </p>
         </div>
-      </div>
-    );
-  }
-
-  if (demo.slug === 'school') {
-    return (
-      <div className="absolute inset-0 overflow-hidden bg-[#E8E7E2]">
-        <img
-          src={image}
-          alt="School homepage preview"
-          className="h-full w-full object-cover object-top transition duration-700 ease-out group-hover:scale-[1.035]"
-        />
       </div>
     );
   }
